@@ -1,0 +1,78 @@
+/* start navbar */
+a:link{text-decoration:none;}
+   .navbar{ background-color:#000000;}
+  ul{margin-left:140px; list-style: none; height:50px;}
+  ul li { display:inline; padding-right:10px; margin-left:10px;}
+  ul .dif {padding-left:150px;}
+  ul li span{color:#FFF; padding-top:-20px; margin-left:10px;}
+  ul .word{color:#FFF; font-family:Brush Script MT, Brush Script Std, cursive; font-size:30px;}
+/* End navbar */
+
+/*Start Body*/
+.headline{background-color:#efefef; width:1350px; height:30px;}
+.headline h4{float:right; margin:0; padding:0; display:inline; width: 370px;}
+.headline span {color:red;}
+.headline .left{float:left;}
+.headline .right{float:right;}
+.first , .second{ text-align:center; float:left; width:400px; height:200px; padding-top:40px; font-size:20; font-weight:bold;}
+.second{float:right;}
+.one{margin-left:20px;}
+.navbar2{background-color:#000000; }
+.navbar2 ul{ height:50px;  }
+.navbar2 ul li { display:inline; float:right; margin-top:7px;}
+.navbar2 ul li a:link{text-decoration:none; color:#848484;}
+.navbar2 ul li a:hover{background-color:#FFF; color:red; padding: 9px 15px;text-align: center;display: inline-block;}
+.ff{float:left;}
+.ff span{color:red;}
+.ss{float:right;}
+.imgg{margin-top:30px; margin-left:20px;}
+.imgg2{margin-top:30px; margin-left:20px; float:right;}
+.imgg3{margin-top:90px;}
+.imgg4{float:left;}
+.contin{padding-top:30px; background-color:#f3f3f3;}
+.contain span{color:red; float:left; margin-top:10px; margin-left:20px;}
+.contain .date{color:#8e8e8e; margin-right:15px;}
+.imgg5{margin-top:20px; margin-left:40px;}
+.bord{border: 2px solid #ebebeb; margin-top:10px; background-color:#fcfcfc;}
+.insi{background-color:#f3f3f3;}
+.font{background-color:#e3e3e3; height:70px;border-bottom: 3px solid red; margin-top:20px;}
+.font h2{float:right;}
+.ss img{margin-right:20px;}
+.ss p{color:red; font-size:20px; margin-left:200px; text-align:center;}
+h4{text-align:center;}
+.ss ul li{margin-left:0;}
+.ss .tows{margin-top:20px; padding-right:40px;}
+.ss .tows .onne{float:left;}
+.ss .twoo{float:right;}
+.news  a:link{text-decoration:none; color:#848484; float:right;}
+.news  a:hover{color:red; font-weight:bold;}
+.tows .co{color:red;}
+.imag7{margin-right:40px;}
+.last{border: 3px solid #ebebeb; margin-top:10px; background-color:#fcfcfc; width:445px; height:200px;}
+.last img{ border: 2px solid #ebebeb; padding: 5px 10px;}
+.last2 h4{float:right;}
+.last2  h4 a:link{text-decoration:none; color:black;}
+.last2  h4  a:hover{color:red; font-weight:bold;}
+
+.last2 h4 span{ float:right; color:#cbc1c1; font-size:15px; margin-top:10px; margin-left:40px; margin-bottom:50px;}
+
+/*End Body*/
+
+/*Start footer*/
+  .footer{ background-color:#000000; width:1350; height:200px; }
+  .footer .ff{float:right;}
+  .footer .ff .right{float:right; color:#FFF; margin-top:40px;  margin-right:40px;}
+  .footer .right img{float:right;}
+  .footer .right span{color:#FFF; font-size:20px;}
+.footer .right .to {margin-right:90px; float:left;}
+
+.footer .seco{float:left;}
+  .footer .seco .right{float:right; color:#FFF; margin-top:40px;  margin-right:40px;}
+  .footer .seco img{float:right;}
+  .footer .right span{float:left; color:#FFF; font-size:20px;}
+.footer .right .to {margin-right:90px; float:left;}
+.footer .fol{font-size:30px; color:#FFF;}
+.fin {color:#bdb7b7;}
+.fin a{color:red;}
+.fin a:hover{color:blue; font-size:10px; text-decoration:underline;}
+  /* end footer8/
